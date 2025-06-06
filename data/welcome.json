@@ -2,7 +2,10 @@
     "notification": "Avatar 259 thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!",
     "update": {
         "version": "2.5.9",
-        "versionCode": 260,
-        "message": "Đã thêm chức năng Auto Attack\nBạn có thể tải về để trải nghiệm những tính năng mới nhất."
+        "versionCode": 259,
+        "message": "Chúc bạn chơi game vui vẻ!",
+        "historyMsg": [
+            "Đã thêm chức năng Auto Attack\nBạn có thể tải về để trải nghiệm những tính năng mới nhất."
+        ]
     }
 }
