@@ -1,0 +1,20 @@
+{
+    "version": {
+        "code": 258,
+        "name": "2.5.8",
+        "forceUpdate": false,
+        "downloadUrl": "https://vungnv10103.github.io/avatar_envy/"
+    },
+    "announcement": {
+        "marquee": "Avatar {{VERSION_CODE}} thuộc bản quyền TeaMobi được mod lại bởi Envy. Chúc bạn chơi game vui vẻ!",
+        "dialog": {
+            "title": "Thông báo",
+            "message": "Đã thêm chức năng Auto Attack\nBạn có thể tải về để trải nghiệm những tính năng mới nhất."
+        }
+    },
+    "changelog": {
+        "latest": "## Cập nhật ngày 16/05/2025\n- Cập nhật lại Auto Farm, đã bao gồm chăm sóc cho vợ/chồng, bạn bè, tuỳ chọn tự động mua lại vật nuôi, tự động chuyển NV\n- Auto Farm có thể sử dụng Lái buôn hỗ trợ hoặc farm thủ công\n- Cập nhật Auto Câu cá(Tự reset chỗ ngồi khi văng ra City Map), thêm tuỳ chọn giữ/bán cá\n- Thêm  tuỳ chọn số lượng, độ trễ trong Auto Nâng cấp\n- Thêm Auto chuyển xèng\n- Thêm chức năng chặn chat và block vĩnh viễn(Tự block nếu chung map) có thể mở lại block\n- Thêm tuỳ chọn tìm NPC chỉ một map hiện tại\n- Thêm menu tuỳ chọn trong lễ đường(Bắn pháo, ném bánh,..)\n- Tối ưu lại giao diện đối với những tài khoản có nhẫn hoặc ngôi sao cạnh tên\n- Thêm chức năng tìm bạn bè theo tên trong Danh sách bạn bè\n- Thêm chức năng tìm vật phẩm trong rương nhà, rương ngoại ô theo ID, Tên\n- Tối ưu lại một số thứ và còn thêm vài tính năng nhỏ"
+    },
+    "config": {},
+    "timestamp": "2025-06-16T08:00:00Z"
+}
